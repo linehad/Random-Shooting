@@ -35,7 +35,7 @@
   <img src="https://user-images.githubusercontent.com/91234912/134452656-442e6582-f0bb-44f6-80ea-14b49b2cc314.png" width="100%">
   
 - 이미지2  
-  <img src="https://user-images.githubusercontent.com/91234912/134452655-ffec31b3-fe75-4115-9a12-942f3ee4f045.png.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/91234912/134452655-ffec31b3-fe75-4115-9a12-942f3ee4f045.png" width="100%">  
   
 - 이미지3  
   <img src="https://user-images.githubusercontent.com/91234912/134452654-a648902e-ace6-4fee-9cd7-5a0f641ce68a.png" width="100%">  
