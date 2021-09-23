@@ -32,32 +32,32 @@
 # [관련 이미지 & 동영상]
 
 - 이미지1  
-  <img src="./img/관련이미지1.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/91234912/134452656-442e6582-f0bb-44f6-80ea-14b49b2cc314.png" width="100%">
   
 - 이미지2  
-  <img src="./img/관련이미지2.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/91234912/134452655-ffec31b3-fe75-4115-9a12-942f3ee4f045.png.png" width="100%">
   
 - 이미지3  
-  <img src="./img/관련이미지3.png" width="100%">  
+  <img src="https://user-images.githubusercontent.com/91234912/134452654-a648902e-ace6-4fee-9cd7-5a0f641ce68a.png" width="100%">  
   
 - 동영상
 - 
-  [![관련동영상1](./img/관련이미지1.png)](https://www.youtube.com/watch?v=uJNMO_HAXyY)
+  [![관련동영상1](https://user-images.githubusercontent.com/91234912/134452656-442e6582-f0bb-44f6-80ea-14b49b2cc314.png)](https://www.youtube.com/watch?v=uJNMO_HAXyY)
   
-  [![관련동영상2](./img/관련이미지2.png)](https://www.youtube.com/watch?v=EHPRsAqVQck)
+  [![관련동영상2](https://user-images.githubusercontent.com/91234912/134452655-ffec31b3-fe75-4115-9a12-942f3ee4f045.png)](https://www.youtube.com/watch?v=EHPRsAqVQck)
   
-  [![관련동영상3](./img/관련이미지3.png)](https://www.youtube.com/watch?v=TPhdDffh0kA)
+  [![관련동영상3](https://user-images.githubusercontent.com/91234912/134452654-a648902e-ace6-4fee-9cd7-5a0f641ce68a.png)](https://www.youtube.com/watch?v=TPhdDffh0kA)
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/임윤남.png)
+![그림](https://user-images.githubusercontent.com/91234912/134452650-daffa1d9-5ee0-45c6-a8cf-3a6265836128.png)
 
 <br><br>
 
 # [컨셉 & 대표이미지 기반 작품묘사]
 
-<img src="./img/관련이미지4.png" width="100%">
+<img src="https://user-images.githubusercontent.com/91234912/134452658-49ab3563-55b8-43fa-8831-d05114e96271.png" width="100%">
 
 > ### 대표이미지 & 컨셉 기반
 > 
