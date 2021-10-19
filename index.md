@@ -195,7 +195,7 @@
 |5|Enemies|<img src="https://user-images.githubusercontent.com/91234912/137956910-a397e8f0-0651-4b86-9270-aff00c360071.png" width="300">|
 |6|Items|<img src="https://user-images.githubusercontent.com/91234912/137956915-b2cf64b9-0f20-4b9d-89df-c6800cfa5977.png" width="300">|
 |7|Wall|<img src="https://user-images.githubusercontent.com/91234912/137956924-67d55f72-abb5-496a-a253-7f9faa6fdac7.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956933-b38d9520-b7e1-4635-a4b1-8846d5e47ae2.png" height="150">|
-|8|Selected|<img src="https://user-images.githubusercontent.com/91234912/137956945-110491bf-dc0b-403b-9bfe-a58518e58061.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956950-a9060c93-a744-42aa-961c-7fa0862389f6.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956958-2fa20d56-4b5f-455b-9c20-41ef2d9cb799.png">|
+|8|Selected|<img src="https://user-images.githubusercontent.com/91234912/137956945-110491bf-dc0b-403b-9bfe-a58518e58061.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956950-a9060c93-a744-42aa-961c-7fa0862389f6.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956958-2fa20d56-4b5f-455b-9c20-41ef2d9cb799.png" height="150">|
 
 # [요구사항(6주차)]<a name='6'></a>
 
