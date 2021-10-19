@@ -184,6 +184,19 @@
 
 # [게임 시스템 디자인]<a name='5'></a>
 
+1. 게임 오브젝트 분해(구성 요소 분석)
+
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|Player|<img src="https://user-images.githubusercontent.com/91234912/137956859-8635a838-56fe-4f75-8b15-501ffe2ffd7f.png" width="300">|
+|2|Bullet|<img src="https://user-images.githubusercontent.com/91234912/137956876-40d90832-e79e-4228-855e-edc4d12a3172.png" width="300">|
+|3|Background|<img src="https://user-images.githubusercontent.com/91234912/137956891-a6b541c3-809f-41b2-a713-b6d542d4b41b.png" height="300">|
+|4|Boom|<img src="https://user-images.githubusercontent.com/91234912/137956901-5e832318-b400-4121-b445-03b7a3a7f2f7.png" height="300">|
+|5|Enemies|<img src="https://user-images.githubusercontent.com/91234912/137956910-a397e8f0-0651-4b86-9270-aff00c360071.png" width="300">|
+|6|Items|<img src="https://user-images.githubusercontent.com/91234912/137956915-b2cf64b9-0f20-4b9d-89df-c6800cfa5977.png" width="300">|
+|7|Wall|<img src="https://user-images.githubusercontent.com/91234912/137956924-67d55f72-abb5-496a-a253-7f9faa6fdac7.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956933-b38d9520-b7e1-4635-a4b1-8846d5e47ae2.png" height="150">|
+|8|Selected|<img src="https://user-images.githubusercontent.com/91234912/137956945-110491bf-dc0b-403b-9bfe-a58518e58061.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956950-a9060c93-a744-42aa-961c-7fa0862389f6.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956958-2fa20d56-4b5f-455b-9c20-41ef2d9cb799.png">|
+
 # [요구사항(6주차)]<a name='6'></a>
 
 1. 시작화면, 튜토리얼 화면, 쉬움 게임화면, 보통 게임화면, 어려움 게임화면 총 5개의 화면이 있다.
