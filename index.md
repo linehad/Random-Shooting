@@ -184,10 +184,10 @@
 
 # [게임 시스템 디자인]<a name='5'></a>
 
-1. 게임 오브젝트 분해(구성 요소 분석)
+### 1. 게임 오브젝트 분해(구성 요소 분석)<br><br>
 
-|연번|오브젝트 이름|오브젝트 이미지|
-|:----:|:----:|:----:|
+|연번|오브젝트</br>이름|오브젝트 이미지|
+|:-----:|:-----:|:-----:|
 |1|Player|<img src="https://user-images.githubusercontent.com/91234912/137956859-8635a838-56fe-4f75-8b15-501ffe2ffd7f.png" width="300">|
 |2|Bullet|<img src="https://user-images.githubusercontent.com/91234912/137956876-40d90832-e79e-4228-855e-edc4d12a3172.png" width="300">|
 |3|Background|<img src="https://user-images.githubusercontent.com/91234912/137956891-a6b541c3-809f-41b2-a713-b6d542d4b41b.png" height="300">|
@@ -196,6 +196,14 @@
 |6|Items|<img src="https://user-images.githubusercontent.com/91234912/137956915-b2cf64b9-0f20-4b9d-89df-c6800cfa5977.png" width="300">|
 |7|Wall|<img src="https://user-images.githubusercontent.com/91234912/137956924-67d55f72-abb5-496a-a253-7f9faa6fdac7.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956933-b38d9520-b7e1-4635-a4b1-8846d5e47ae2.png" height="150">|
 |8|Selected|<img src="https://user-images.githubusercontent.com/91234912/137956945-110491bf-dc0b-403b-9bfe-a58518e58061.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956950-a9060c93-a744-42aa-961c-7fa0862389f6.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956958-2fa20d56-4b5f-455b-9c20-41ef2d9cb799.png" height="150">|
+
+### 1. 파라미터(속성) 뽑아 보기<br><br>
+
+|속성|입력 값|설명|비고|
+|:-----:|:-----:|:-----:|:-----:|
+|Life|3|플레이어의 목숨| |
+|Score|default : 0|플레이어가 얻은 점수| |
+
 
 # [요구사항(6주차)]<a name='6'></a>
 
