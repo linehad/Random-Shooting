@@ -197,15 +197,58 @@
 |7|Wall|<img src="https://user-images.githubusercontent.com/91234912/137956924-67d55f72-abb5-496a-a253-7f9faa6fdac7.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956933-b38d9520-b7e1-4635-a4b1-8846d5e47ae2.png" height="150">|
 |8|Selected|<img src="https://user-images.githubusercontent.com/91234912/137956945-110491bf-dc0b-403b-9bfe-a58518e58061.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956950-a9060c93-a744-42aa-961c-7fa0862389f6.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956958-2fa20d56-4b5f-455b-9c20-41ef2d9cb799.png" height="150">|
 
-### 1. 파라미터(속성) 뽑아 보기<br><br>
+<br><br>
+
+### 2. 파라미터(속성) 뽑아 보기<br><br>
+
+#### 1)오브젝트 이름 : Player<br>
 
 |속성|입력 값|설명|비고|
 |:-----:|:-----:|:-----:|:-----:|
 |Life|3|플레이어의 목숨| |
 |Score|default : 0|플레이어가 얻은 점수| |
+|Power|default : 6|총알의 공격력| |
+|Speed|1|플레이어의 속도| |
+|Boom|2|위기에서 벗어나게 해주는 폭탄 시작 시 2개 소지함| |
+|Bullet speed|default : 0.15|총알의 기본 스피드 아이템이나 선택에 따라 늘어남| |
+|Hit|false|플레이어가 적 총알에 맞았는지 판단하는 파라미터| |
+|Critical Hit|default : 10%|플레이어의 치명타 확률| |
 
+<br><br>
+
+#### 2)오브젝트 이름 : Enemies<br>
+
+|속성|입력 값|설명|비고|
+|:-----:|:-----:|:-----:|:-----:|
+|Name|A, B, C, Boss|적의 이름에 따라서 스프라이트가 바뀜| |
+|Enemy Score|1000, Boss : 10000|적을 죽였을 때 얻는 점수| |
+|Speed|1.5|적의 이동 속도| |
+|Health|default : 6, Boss default : 1000|적의 체력| |
+|Size|1, Boss : 10|적의 크기 이름에 따라서 달라짐| |
+|Bullet Pattern|A, B, C, D|탄막의 패턴 보통의 적이 쏘는 패턴과 보스가 쏘는 패턴이 구분됨| |
+|Wall Speed|default : 3|벽이 내려오는 속도 스테이지에 따라 점점 빨라짐| |
+
+<br><br>
+
+#### 3)오브젝트 이름 : Bullet<br>
+
+|속성|입력 값|설명|비고|
+|:-----:|:-----:|:-----:|:-----:|
+Name|1, 2, 3|Bullet의 이름| |
+|x|1|스프라이트의 x좌표 (가변)| |
+|y|0|스프라이트의 y좌표| |
+
+<br><br>
+
+#### 4)오브젝트 이름 : Boom<br>
+
+|속성|입력 값|설명|비고|
+|:-----:|:-----:|:-----:|:-----:|
 
 # [요구사항(6주차)]<a name='6'></a>
+
+<br>
+### 랜덤 탄막 프로젝트의 요구사항
 
 1. 시작화면, 튜토리얼 화면, 쉬움 게임화면, 보통 게임화면, 어려움 게임화면 총 5개의 화면이 있다.
 2. 시작화면에는 튜토리얼, 쉬움, 보통, 어려움 이라는 버튼 4개가 있다.
