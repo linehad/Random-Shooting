@@ -426,5 +426,5 @@
 ## [용어정리]<a name='8-4'></a>
 
 # [개발 작업 일정]<a name='9'></a>
-<img src="https://user-images.githubusercontent.com/91234912/139013652-fa6acaf3-588f-44bf-8fe4-a57e29c65e13.PNG" width="100%">
+<img src="https://user-images.githubusercontent.com/91234912/139013652-fa6acaf3-588f-44bf-8fe4-a57e29c65e13.PNG" width="100%" height="100%">
 
