@@ -436,10 +436,10 @@
 30. 랜덤의 커먼에는 공속 +0.1, 폭탄 +1, 이동속도 +5가 나타난다.
 
 ## [키보드 이벤트에 대한 흐름도]<a name='8-3'></a>
-  <img src="https://user-images.githubusercontent.com/91234912/139146609-75f95977-a992-4843-8e71-2c436ef3be6a.PNG" width="100%" height="400">
+  <img src="https://user-images.githubusercontent.com/91234912/139146609-75f95977-a992-4843-8e71-2c436ef3be6a.PNG" width="100%">
 
 ## [용어정리]<a name='8-4'></a>
-  
+  <img src="https://user-images.githubusercontent.com/91234912/139154483-c2088bf2-ffbd-4cb8-a4ae-e95d70fa7df3.PNG" width="100%">
 
 # [개발 작업 일정]<a name='9'></a>
 <img src="https://user-images.githubusercontent.com/91234912/139013652-fa6acaf3-588f-44bf-8fe4-a57e29c65e13.PNG" width="100%">
