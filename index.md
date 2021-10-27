@@ -437,7 +437,9 @@
 
 ## [키보드 이벤트에 대한 흐름도]<a name='8-3'></a>
   <img src="https://user-images.githubusercontent.com/91234912/139146609-75f95977-a992-4843-8e71-2c436ef3be6a.PNG" width="100%" height="400">
+
 ## [용어정리]<a name='8-4'></a>
+  
 
 # [개발 작업 일정]<a name='9'></a>
 <img src="https://user-images.githubusercontent.com/91234912/139013652-fa6acaf3-588f-44bf-8fe4-a57e29c65e13.PNG" width="100%">
