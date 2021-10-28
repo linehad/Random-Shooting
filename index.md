@@ -226,7 +226,7 @@
 
 ### 1. 게임 오브젝트 분해(구성 요소 분석)<a name='7-1'><br><br>
 
-|연번|오브젝트<br>이름|오브젝트 이미지|
+|연번|오브젝트 이름|오브젝트 이미지|
 |:-----:|:-----:|:-----:|
 |1|Player|<img src="https://user-images.githubusercontent.com/91234912/137956859-8635a838-56fe-4f75-8b15-501ffe2ffd7f.png" width="300">|
 |2|Bullet|<img src="https://user-images.githubusercontent.com/91234912/137956876-40d90832-e79e-4228-855e-edc4d12a3172.png" width="300">|
