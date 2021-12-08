@@ -453,4 +453,4 @@
   수정 전
 <img src="https://user-images.githubusercontent.com/91234912/139013652-fa6acaf3-588f-44bf-8fe4-a57e29c65e13.PNG" width="100%">
   수정 후
- <img src="https://user-images.githubusercontent.com/91234912/145205656-28b28b8b-7da3-4f53-bb3c-530dd367d036.PNG" width="100%">
+ <img src="https://user-images.githubusercontent.com/91234912/145205880-68418a2c-af89-40ca-910e-dfd65359dcfc.PNG" width="100%">
