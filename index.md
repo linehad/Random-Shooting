@@ -100,7 +100,7 @@
 
 # [대표 이미지]<a name='3'></a>
 
-![그림](https://user-images.githubusercontent.com/91234912/134452650-daffa1d9-5ee0-45c6-a8cf-3a6265836128.png)
+![그림](https://user-images.githubusercontent.com/91234912/172499913-2be33eb6-02a0-4083-a5fc-d7e0be049ac0.PNG)
 
 <br><br>
 
@@ -232,14 +232,15 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:-----:|:-----:|:-----:|
-|1|Player|<img src="https://user-images.githubusercontent.com/91234912/137956859-8635a838-56fe-4f75-8b15-501ffe2ffd7f.png" width="300">|
-|2|Bullet|<img src="https://user-images.githubusercontent.com/91234912/137956876-40d90832-e79e-4228-855e-edc4d12a3172.png" width="300">|
-|3|Background|<img src="https://user-images.githubusercontent.com/91234912/137956891-a6b541c3-809f-41b2-a713-b6d542d4b41b.png" height="300">|
-|4|Boom|<img src="https://user-images.githubusercontent.com/91234912/137956901-5e832318-b400-4121-b445-03b7a3a7f2f7.png" height="300">|
-|5|Enemies|<img src="https://user-images.githubusercontent.com/91234912/137956910-a397e8f0-0651-4b86-9270-aff00c360071.png" width="300">|
-|6|Items|<img src="https://user-images.githubusercontent.com/91234912/137956915-b2cf64b9-0f20-4b9d-89df-c6800cfa5977.png" width="300">|
-|7|Wall|<img src="https://user-images.githubusercontent.com/91234912/137956924-67d55f72-abb5-496a-a253-7f9faa6fdac7.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956933-b38d9520-b7e1-4635-a4b1-8846d5e47ae2.png" height="150">|
-|8|Selected|<img src="https://user-images.githubusercontent.com/91234912/137956945-110491bf-dc0b-403b-9bfe-a58518e58061.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956950-a9060c93-a744-42aa-961c-7fa0862389f6.png" height="150"><img src="https://user-images.githubusercontent.com/91234912/137956958-2fa20d56-4b5f-455b-9c20-41ef2d9cb799.png" height="150">|
+|1|Player|<img src="https://user-images.githubusercontent.com/91234912/172500465-335e52c8-7d5e-4449-aaea-80f3bbb5f1b7.png" width="300">|
+|2|Bullet&Boom|<img src="https://user-images.githubusercontent.com/91234912/172499970-783eb157-04f0-4030-9883-3367aeca40c5.png" width="300">|
+|3|Background Bottom|<img src="https://user-images.githubusercontent.com/91234912/172499981-e7357c84-3221-4b10-a1f0-10ccfd8e3988.png" height="300">|
+|4|Background Mid|<img src="https://user-images.githubusercontent.com/91234912/172500048-65edc6d5-78ba-4d50-8cb7-04c5085ac574.png" height="300">|
+|5|Background Top|<img src="https://user-images.githubusercontent.com/91234912/172500040-cf24cfc5-f9d5-4c94-90e5-f79ecd103c40.png" height="300">|
+|6|Enemies Boss|<img src="https://user-images.githubusercontent.com/91234912/172500000-2d21fc4c-39e2-4043-bc99-b8ffee9f2680.png" width="300">|
+|7|Enemies|<img src="https://user-images.githubusercontent.com/91234912/172500015-b79f8509-6cdf-42c3-bacd-5bc00b6db226.png" width="300">|
+|8|Items|<img src="https://user-images.githubusercontent.com/91234912/137956915-b2cf64b9-0f20-4b9d-89df-c6800cfa5977.png" width="300">|
+
 
 <br><br>
 
