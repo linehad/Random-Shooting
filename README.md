@@ -1,5 +1,6 @@
 # 게임명 : 랜덤 탄막 프로젝트
--Source 파일에서 코드를 확인 하실 수 있으며 유니티로 실행하실 경우 unitypackage 폴더 내부에 패키지가 분할압축 되어 있으니 압축을 해제해서 임포트 시켜주세요!-
+-Source 파일에서 코드를 확인 하실 수 있으며 유니티로 실행하실 경우 unitypackage 폴더 내부에 패키지가 분할압축 되어 있으니 압축을 해제해서 임포트 시켜주세요!- <br>
+-다운 링크 : https://drive.google.com/file/d/1jQKyQkQTPwZkJSSqM0g_Ab_aGUQOJ-c-/view?usp=sharing-
 
 # [ 목차 ]
 #### 1. [컨셉](#탄막)
